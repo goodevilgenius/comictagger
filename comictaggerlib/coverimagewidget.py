@@ -29,7 +29,7 @@ from comicvinetalker import ComicVineTalker, ComicVineTalkerException
 from imagefetcher import ImageFetcher
 from pageloader import PageLoader
 from imagepopup import ImagePopup
-from comictaggerlib.ui.qtutils import reduceWidgetFontSize, getQImageFromData
+from ui.qtutils import reduceWidgetFontSize, getQImageFromData
 #from genericmetadata import GenericMetadata, PageType
 #from comicarchive import MetaDataStyle
 #import utils

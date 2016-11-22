@@ -31,7 +31,7 @@ from progresswindow import IDProgressWindow
 from settings import ComicTaggerSettings
 from matchselectionwindow import MatchSelectionWindow
 from coverimagewidget import CoverImageWidget
-from comictaggerlib.ui.qtutils import reduceWidgetFontSize
+from ui.qtutils import reduceWidgetFontSize
 #from imagefetcher import ImageFetcher
 #import utils
 

@@ -22,7 +22,7 @@ from PyQt4 import QtCore, QtGui, uic
 
 from settings import ComicTaggerSettings
 from coverimagewidget import CoverImageWidget
-from comictaggerlib.ui.qtutils import reduceWidgetFontSize
+from ui.qtutils import reduceWidgetFontSize
 #from imagefetcher import ImageFetcher
 #from comicarchive import MetaDataStyle
 #from comicvinetalker import ComicVineTalker

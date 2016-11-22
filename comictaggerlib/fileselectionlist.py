@@ -28,7 +28,7 @@ from PyQt4.QtCore import pyqtSignal
 from settings import ComicTaggerSettings
 from comicarchive import ComicArchive
 from optionalmsgdialog import OptionalMessageDialog
-from comictaggerlib.ui.qtutils import reduceWidgetFontSize, centerWindowOnParent
+from ui.qtutils import reduceWidgetFontSize, centerWindowOnParent
 import utils
 #from comicarchive import MetaDataStyle
 #from genericmetadata import GenericMetadata, PageType

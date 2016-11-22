@@ -55,7 +55,7 @@ from autotagprogresswindow import AutoTagProgressWindow
 from autotagmatchwindow import AutoTagMatchWindow
 from coverimagewidget import CoverImageWidget
 from versionchecker import VersionChecker
-from comictaggerlib.ui.qtutils import reduceWidgetFontSize, centerWindowOnParent
+from ui.qtutils import reduceWidgetFontSize, centerWindowOnParent
 import utils
 import ctversion
 

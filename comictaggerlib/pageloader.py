@@ -17,7 +17,7 @@
 from PyQt4 import QtCore, QtGui, uic
 from PyQt4.QtCore import pyqtSignal
 
-from comictaggerlib.ui.qtutils import getQImageFromData
+from ui.qtutils import getQImageFromData
 #from comicarchive import ComicArchive
 #import utils
 

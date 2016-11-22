@@ -26,7 +26,7 @@ from comicvinetalker import ComicVineTalker, ComicVineTalkerException
 from settings import ComicTaggerSettings
 from issuestring import IssueString
 from coverimagewidget import CoverImageWidget
-from comictaggerlib.ui.qtutils import reduceWidgetFontSize
+from ui.qtutils import reduceWidgetFontSize
 #from imagefetcher import ImageFetcher
 #import utils
 

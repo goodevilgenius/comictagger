@@ -19,7 +19,7 @@
 
 from PyQt4 import QtCore, QtGui, uic
 
-from comictaggerlib.ui.qtutils import reduceWidgetFontSize
+from ui.qtutils import reduceWidgetFontSize
 from settings import ComicTaggerSettings
 #import utils
 
